@@ -1,0 +1,130 @@
+### Step 2A
+meekmeek92@MacBook-Pro-82 ~ % pwd
+
+
+### Step 2B
+** SPOILERS **
+meekmeek92@MacBook-Pro-82 ~ % cd Documents
+
+### Step 2C
+meekmeek92@MacBook-Pro-82 Documents % ls
+
+
+
+### Step 2D
+meekmeek92@MacBook-Pro-82 ~ % cd Documents
+
+
+
+### Step 2E
+meekmeek92@MacBook-Pro-82 Documents % cd Git
+
+
+### Step 2F
+meekmeek92@MacBook-Pro-82 Git % ls
+
+
+### Step 2G
+cd /
+
+
+
+### Step 2H
+Pwd
+
+### Step 2I
+Ls
+
+### Step 2J
+
+
+### Step 2K
+
+
+
+### Step 3A
+meekmeek92@MacBook-Pro-82 Documents % cd Git
+meekmeek92@MacBook-Pro-82 Git % ls
+my-steps.txt
+meekmeek92@MacBook-Pro-82 Git % mkdir veggies
+meekmeek92@MacBook-Pro-82 Git % mkdir meats
+meekmeek92@MacBook-Pro-82 Git % mkdir desserts
+meekmeek92@MacBook-Pro-82 Git % ls
+desserts	meats		my-steps.txt	veggies
+meekmeek92@MacBook-Pro-82 Git % 
+
+
+
+### Step 3B
+
+meekmeek92@MacBook-Pro-82 Git % mv desserts sweets
+meekmeek92@MacBook-Pro-82 Git % ls
+meats		my-steps.txt	sweets		veggies
+meekmeek92@MacBook-Pro-82 Git % 
+
+
+
+### Step 3C
+
+meekmeek92@MacBook-Pro-82 Git % mkdir protien
+
+
+### Step 3D
+meekmeek92@MacBook-Pro-82 Git % mv meats protien
+
+
+### Step 3E
+meekmeek92@MacBook-Pro-82 Git % cd veggies
+meekmeek92@MacBook-Pro-82 veggies % mkdir carrot.txt
+meekmeek92@MacBook-Pro-82 veggies % mkdir pea.txt
+
+
+### Step 3F
+meekmeek92@MacBook-Pro-82 Git % cd sweets
+meekmeek92@MacBook-Pro-82 sweets % mkdir cookies.txt
+
+### Step 3G
+
+meekmeek92@MacBook-Pro-82 sweets % mv cookies.txt donut.text
+
+### Step 3H
+
+meekmeek92@MacBook-Pro-82 Git % mkdir thing.txt
+
+
+### Step 3I
+cp thing.txt tofu.txt
+
+
+### Step 3J
+meekmeek92@MacBook-Pro-82 Git % mv tofu.txt proteins/
+
+### Step 3K
+cp thing.txt crab.txt
+
+
+### Step 3L
+
+rm thing.txt
+
+### Step 3M
+
+meekmeek92@MacBook-Pro-82 Git % cp -r veggies plants
+
+### Step 3N
+
+meekmeek92@MacBook-Pro-82 Git % mkdir drinks
+meekmeek92@MacBook-Pro-82 Git % rm -r drinks
+
+### Step 4
+
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
